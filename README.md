@@ -1,2 +1,3 @@
-# digital-clock
-Simple Digital Alarm Clock, which uses EcmaScript 5 syntax. One of my first apps with pure javascript
+This is a simple app - Digital Alarm Clock.
+It is written in pure javascript and uses ECMAScript5.
+The idea was to practive ECMA5 syntax for creating, menaging and ineriting js classes.
